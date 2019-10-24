@@ -1,0 +1,29 @@
+h1 { color: teal; }
+
+h2 { color: blue; }
+
+strong { color: red; }
+
+span[class=destacado] { color: orange; }
+
+a { color: red; }
+
+a > em { color: blue; }
+
+caption { color: blue; }
+
+table, tr, th, td {border:1px solid #000; border-collapse:collapse; padding:5px;}
+
+th { color: red; }
+
+th.especial { color: orange; }
+
+td { color: green; }
+
+td > strong { color: orange; }
+
+#adicional { color: olive; }
+
+#adicional a { color: green; }
+
+span[id=especial] { color: fuchsia; }
