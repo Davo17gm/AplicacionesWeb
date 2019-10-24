@@ -1,0 +1,17 @@
+body { color: darkred; background-image: url(bg85.gif); }
+
+a.link { text-align: center; }
+
+h1 { color: red; text-align: center; }
+
+h2 { color: black; text-align: center; }
+
+img { float: left; border-style: solid; border-color: red; padding: 20px}
+
+span[id=b] { font-weight: bold; }
+
+span[id=u] { text-decoration: underline; }
+
+p { margin: 22px 250px 0px 250px; text-align: justify; }
+
+address { color: black; text-align: center; margin-top: 250px; }

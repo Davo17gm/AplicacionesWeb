@@ -1,0 +1,17 @@
+body { color: darkblue; background-image: url(bg85.gif); font-family: sans-serif; }
+
+a.link { text-align: center; text-align: none}
+
+h1 { color: blue; text-align: center; }
+
+h2 { color: black; text-align: center; }
+
+img { float: left; border-style: solid; border-color: blue; padding: 20px}
+
+span[id=b] { font-style: italic; }
+
+span[id=u] { font-weight: bold; }
+
+p { margin: 22px 250px 0px 250px; text-align: justify; }
+
+address { color: black; text-align: center; margin-top: 250px; }
