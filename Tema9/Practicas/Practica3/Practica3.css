@@ -1,0 +1,23 @@
+body {font-family: sans-serif;}
+
+header {
+  border-style: solid;
+  padding: 15px;
+}
+
+section {
+  border-style: solid;
+  padding: 15px;
+  margin-top: 15px;
+}
+
+article {
+  border-style: solid;
+  padding: 15px;
+}
+
+footer {
+  border-style: solid;
+  padding: 15px;
+  margin-top: 15px;
+}
